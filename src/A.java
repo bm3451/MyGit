@@ -5,6 +5,6 @@ public class A {
 
 		System.out.println("master change");
 		System.out.println("devB");
-
+		System.out.println("devC change");
 	}
 }
